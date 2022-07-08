@@ -8,7 +8,7 @@ The goal is to predict arrival delays of commercial flights. Often, there isn't 
 ### Files
 
 - **exploratory_analysis.ipynb**: This file contains our initial exploratory data analysis
-- **Flight_delay_prediction.ipynb**: this file contains instructions for modeling part of the project. We recommend to split modeling tasks into more notebooks.
+- **Flight_delay_prediction.ipynb**:This file contains our EDA, feature engineering, modeling, evaluation and final testing
 - **Flights_test.ipynb**: This file contains the codes we manipulate with the final dataset with our features: weather and information about historical delays
 - **final_submission.csv**: this file is the final submission contain our prediction for Jan 2020 flight delay.
 Flights_test.ipynb
